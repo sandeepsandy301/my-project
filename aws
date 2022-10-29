@@ -1,6 +1,10 @@
 #include <stdio.h>
  {
+<<<<<<< HEAD
       hello.java (hi everyone) from file2
+=======
+      hello.java (hi everyone) from file1
+>>>>>>> 0819af2f3d11f76b06e6e39feb3367c734159b63
        }
 
        hi 2 all hi everyone today happy
